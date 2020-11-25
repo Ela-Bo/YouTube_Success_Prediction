@@ -1,4 +1,4 @@
-[](https://github.com/Ela-Bo/YouTube_Success_Prediction/blob/main/image.png)
+![](https://github.com/Ela-Bo/YouTube_Success_Prediction/blob/main/image.png)
 
 # YouTube-success is predictable! 
 ## Utilizing early view patterns to predict the success of a YouTube video with machine learning techniques.
