@@ -24,9 +24,9 @@ When YouTube first made it's way onto the internet, few people realized how many
 ## What is a successful video?
 In the following this is an exploratory data analysis for predicting if a YouTube video is going to be successful or not. 
 There are many different ideas and approaches how to assess the success of YouTube - Video:
-* Comments to Views: comments:views = 0.5%
-* Likes to Views: likes:views = 4%
-* Views to Subscribers: ratio of views:subscribers = 14%.
+* Comments to Views: 0.5%
+* Likes to Views: 4%
+* Views to Subscribers: 14%.
 
 In exchange with Rocket Beans we have decided for: **like-view ratio 4%**
 Which basically means, that at least 4% of the views did push the like button.
