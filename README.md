@@ -1,6 +1,8 @@
 ![](https://github.com/Ela-Bo/YouTube_Success_Prediction/blob/main/image.png)
 [Image Source](https://pixabay.com/de/photos/kamera-digital-fotografie-isoliert-819359/ )
 
+**In case of sensitive internal data: Please note that the notebooks will be provided as soon as possible after clarification with our stakeholder**
+
 # YouTube Success is predictable! 
 ## Utilizing early view patterns to predict the success of a YouTube video with machine learning techniques.
 
