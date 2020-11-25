@@ -1,7 +1,7 @@
 ![](https://github.com/Ela-Bo/YouTube_Success_Prediction/blob/main/image.png)
 [Image Source](https://pixabay.com/de/photos/kamera-digital-fotografie-isoliert-819359/ )
 
-# YouTube-success is predictable! 
+# YouTube Success is predictable! 
 ## Utilizing early view patterns to predict the success of a YouTube video with machine learning techniques.
 
 For many people, YouTube plays a part in their daily life. It is one of the **main sources of online video entertainment, education, advertisement, to keep up to date** and much more. So it might not surprise that creators are eager to identify factors that might tweak the performance resp. the **success of an uploaded video**. With the help of Data Science we unleashed not only Data Analytics and Machine Learning on our journey, but even a neural network, trying to find factors that determine a success or even explain it. 
